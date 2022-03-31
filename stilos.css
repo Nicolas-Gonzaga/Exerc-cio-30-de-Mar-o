@@ -1,0 +1,18 @@
+#i_diva{
+    background-color: rgb(253, 91, 226);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#i_divb{
+    background-color: rgb(248, 11, 130);
+    height: 100%;
+    width: 250px;
+    border: 20px red dashed;
+}
+#i_divc{
+    background-color: aqua;
+    height: 88%;
+    width: 30%;
+}

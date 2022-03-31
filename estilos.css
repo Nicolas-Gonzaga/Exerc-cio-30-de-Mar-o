@@ -1,0 +1,15 @@
+#i_diva{
+   background-color: red;
+   height: 50px;
+   width: 50px;
+   margin-top: 100px;
+}
+#i_divb{
+    background-color: black;
+    width: 50vw;
+    height: 50vh;    
+    border: 10px red dashed;
+     margin-top: 100px;
+     margin-left: 100px;
+
+}
